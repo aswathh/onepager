@@ -1,0 +1,30 @@
+{
+  "labels": {
+    "HQ": "hq",
+    "Employees": "employees",
+    "Funding": "funding",
+    "Revenue": "revenue",
+    "Vertical Market": "vertical_market",
+    "Route to Market": "route_to_market",
+    "Current Inference Hardware": "inference_hardware",
+    "Deployment Type": "deployment_type",
+    "Current Training Hardware": "training_hardware",
+    "Model/s:": "models",
+    "Current AI Framework": "ai_framework",
+    "Additional AI Software Stack": "additional_ai_stack",
+    "Current Serving Framework": "serving_framework"
+  },
+  "logo_rows": {
+    "GTM Partners": "gtm_partners",
+    "Key Customers": "key_customers",
+    "Main Competitors": "main_competitors"
+  },
+  "shapes": {
+    "Picture 20": "logo:company_logo",
+    "TextBox 3": "website",
+    "TextBox 2": "company_name",
+    "TextBox 6": "company_description",
+    "Rectangle 21": "product_name",
+    "Rectangle 22": "product_description"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "company_name": "Assessli",
+  "website": "https://assessli.com",
+  "company_logo": {"name": "Assessli", "logo_path": "logos/assessli.png"},
+  "hq": "Bengaluru, Karnataka",
+  "employees": "40",
+  "funding": "400K USD",
+  "revenue": "$5.2M",
+  "company_description": "Assessli, founded in 2022, is an IT company focused on building next-generation behavioral intelligence through its proprietary technology called Large Behavioral Models (LBMs). Unlike traditional AI systems that primarily process language or static data, Assessli's LBMs are designed to understand, learn, and adapt to human behavior, cognition, and decision-making patterns over time, enabling highly personalized and context-aware AI interactions.",
+  "product_name": "Dotsin",
+  "product_description": "Dots-In is a foundational AI platform built on a Large Behavioral Model (LBM) that learns how humans behave, decide, and evolve over time. It integrates biological, cognitive, behavioral, and digital human metadata to create continuously learning Human Digital Twins. Unlike language models that process text, LBM models real human behavior using self-supervised learning and reinforcement learning.",
+  "vertical_market": ["EdTech", "HRTech", "Healthcare", "AI Personalized Consumer AI"],
+  "route_to_market": "Direct SaaS-led",
+  "inference_hardware": "Pytorch",
+  "training_hardware": "NVIDIA H100 / A100",
+  "deployment_type": "Cloud",
+  "models": ["BioBERT + LoRA", "GNN", "TGN"],
+  "ai_framework": "Pytorch",
+  "serving_framework": ["PyTorch", "ONNX"],
+  "additional_ai_stack": ["Huggingface", "unsloth", "OpenVino", "SGLang", "FastAPI", "Kafka for ingestion", "Python 3.11"],
+  "gtm_partners": [
+    {"name": "Microsoft", "website": "microsoft.com", "logo_path": "logos/microsoft.png"},
+    {"name": "SAP", "website": "sap.com", "logo_path": "logos/sap.png"},
+    {"name": "Notion", "website": "notion.so", "logo_path": "logos/notion.png"},
+    {"name": "Partner D", "logo_path": "logos/dotsin.png"}
+  ],
+  "key_customers": [
+    {"name": "Coursera", "website": "coursera.org", "logo_path": "logos/coursera.png"},
+    {"name": "upGrad", "website": "upgrad.com", "logo_path": "logos/upgrad.png"},
+    {"name": "Customer C (no logo found)", "logo_path": "logos/does_not_exist.png"},
+    {"name": "Customer D", "logo_path": "logos/vw.png"}
+  ],
+  "main_competitors": [
+    {"name": "Wysa", "website": "wysa.com", "logo_path": "logos/wysa.png"},
+    {"name": "Smart Eye", "website": "smarteye.se", "logo_path": "logos/smarteye.png"},
+    {"name": "Competitor C", "logo_path": "logos/panda.png"},
+    {"name": "Competitor D", "logo_path": "logos/vw.png"}
+  ]
+}

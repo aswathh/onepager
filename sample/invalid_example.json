@@ -1,0 +1,16 @@
+{
+  "company_name": "BrokenCo",
+  "website": "brokenco",
+  "hq": "",
+  "employees": "forty",
+  "funding": "lots of money",
+  "revenue": "$1.1M",
+  "company_description": "Too short.",
+  "product_name": "BrokenProduct",
+  "product_description": "BrokenProduct is a platform that does many interesting things for enterprises across several industries worldwide, at scale.",
+  "vertical_market": "FinTech",
+  "route_to_market": "Channel",
+  "deployment_type": "Cloud",
+  "extra_unmapped_key": "this key is not placed anywhere in the template",
+  "gtm_partners": [{"name": "Microsoft", "logo_path": "logos/microsoft.png"}]
+}

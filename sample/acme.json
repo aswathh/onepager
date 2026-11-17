@@ -1,0 +1,35 @@
+{
+  "company_name": "Acme Vision",
+  "website": "https://acmevision.ai",
+  "company_logo": {"name": "Acme Vision", "logo_path": "logos/upgrad.png"},
+  "hq": "Pune, Maharashtra",
+  "employees": "120",
+  "funding": "$12M",
+  "revenue": "$3.4M",
+  "company_description": "Acme Vision builds edge computer-vision software for factory inspection, running optimized models on low-power CPUs and accelerators so manufacturers can detect defects in real time without sending images to the cloud.",
+  "product_name": "VisionIQ",
+  "product_description": "VisionIQ is an inspection platform that packages detection and segmentation models for deployment on edge devices, with a monitoring dashboard, automatic retraining on new defect types, and integrations with common MES and PLC systems.",
+  "vertical_market": ["Manufacturing", "Automotive"],
+  "route_to_market": "Channel partners",
+  "inference_hardware": "Intel CPU / OpenVINO",
+  "training_hardware": "NVIDIA A100",
+  "deployment_type": "Edge",
+  "models": ["YOLOv8", "SAM"],
+  "ai_framework": "PyTorch",
+  "serving_framework": ["OpenVINO", "ONNX Runtime"],
+  "additional_ai_stack": ["OpenCV", "FastAPI", "MQTT"],
+  "gtm_partners": [
+    {"name": "Microsoft", "logo_path": "logos/microsoft.png"},
+    {"name": "SAP", "logo_path": "logos/sap.png"}
+  ],
+  "key_customers": [
+    {"name": "Customer 1", "logo_path": "logos/coursera.png"},
+    {"name": "Customer 2", "logo_path": "logos/wysa.png"},
+    {"name": "Customer 3", "logo_path": "logos/panda.png"},
+    {"name": "Customer 4", "logo_path": "logos/notion.png"},
+    {"name": "Customer 5 (dropped)", "logo_path": "logos/vw.png"}
+  ],
+  "main_competitors": [
+    {"name": "Rival A", "logo_path": "logos/smarteye.png"}
+  ]
+}
